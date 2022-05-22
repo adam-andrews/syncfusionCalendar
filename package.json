@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@syncfusion/ej2-react-calendars": "^20.1.56",
     "next": "12.1.6",
     "react": "18.1.0",
     "react-dom": "18.1.0"
